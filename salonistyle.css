@@ -1,0 +1,90 @@
+.jumbotron{
+
+		margin-bottom: 0px;
+	}
+	.nav-link{
+		color:white;
+	}
+	.navbar-nav
+	{
+		height: 40px;
+
+	}
+	.form-inline{
+		float: right;
+	}
+	.navbar navbar-expand-xl{
+		position: fixed;
+	}
+
+	.col-sm-4 img{
+		min-height: 200px;
+		max-height: 150px;
+	}
+	.panel-body img{
+		margin-bottom: 20px;
+	}
+
+.nav-item {
+	padding: 7px 20px;
+	transform: all 0.5s;
+}
+
+.nav-item:hover {
+	color: white;
+	background-color: #888	;
+
+}
+
+.nav-item:hover a {
+	color: white;
+	text-shadow: 1px 1px 2px #333;
+}
+
+.nav-item a {
+	text-decoration: none;
+	transform: all 0.5s;
+}
+
+.navbar {
+	padding: 0 !important;
+}
+
+
+.bg-dark-custom {
+	background: #000 !important;
+}
+
+.navbar-brand {
+	margin-left: 20px;
+}
+
+.form-inline {
+	margin-bottom: 0 !important;
+	margin-right: 10px;
+}
+
+.form-inline input{
+	border-radius: 5px 0px 0px 5px !important;
+}
+
+.form-inline button {
+	border-radius : 0px 5px 5px 0px !important;
+	padding: 10px 10px
+}
+
+.form-inline button:hover {
+	color: black;
+	background-color: #A9A9A9;
+	border: 1px solid #A9A9A9;
+}
+.footer{
+	width: 100%;
+	background-color: #ccc;
+	height: 60px;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
